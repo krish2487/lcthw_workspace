@@ -7,6 +7,7 @@ int main(int argc, char const *argv[])
 	for (i = 0; i < 10; ++i)
 	{
 		printf("I is : %d\n", i);
+		//The assert should abort the program at i=9. i=9 should not print
 		assert(i<9);
 		/* code */
 	}

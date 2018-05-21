@@ -15,6 +15,11 @@ int main(int argc, char const *argv[])
 	for (i = 0; i < num_of_states; ++i)
 	{
 		printf("State %d: %s\n", i,states[i]);
+		for (int j = 0; states[i][j]!='\0'; ++j)
+		{
+			printf("%c\n", states[i][j]);
+			/* code */
+		}
 		/* code */
 	}
 	return 0;

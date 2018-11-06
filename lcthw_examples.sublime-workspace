@@ -509,15 +509,13 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/Users/srikrishnachaitanyanarumanchi/Workspace/lcthw/workspace"
-	],
 	"file_history":
 	[
+		"/Users/srikrishnachaitanyanarumanchi/Library/Application Support/Sublime Text 3/Packages/User/SublimeGDB.sublime-settings",
+		"/Users/srikrishnachaitanyanarumanchi/Workspace/lcthw/workspace/ex25/ex25.c",
+		"/Users/srikrishnachaitanyanarumanchi/Workspace/lcthw/learn-c-the-hard-way-lectures/ex25/ex25.c",
 		"/Users/srikrishnachaitanyanarumanchi/Documents/PlatformIO/Projects/disco_f030r8/src/main.cpp",
 		"/Users/srikrishnachaitanyanarumanchi/Library/Application Support/Sublime Text 3/Packages/SublimeGDB/SublimeGDB.sublime-settings",
-		"/Users/srikrishnachaitanyanarumanchi/Library/Application Support/Sublime Text 3/Packages/User/SublimeGDB.sublime-settings",
 		"/Users/srikrishnachaitanyanarumanchi/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src/BLEServer.cpp",
 		"/Users/srikrishnachaitanyanarumanchi/Documents/PlatformIO/Projects/disco_f030r8/platformio.ini",
 		"/Users/srikrishnachaitanyanarumanchi/.platformio/platforms/ststm32/boards/disco_f030r8.json",
@@ -540,7 +538,6 @@
 		"/Users/srikrishnachaitanyanarumanchi/Downloads/mastering-stm32-master/nucleo-f030R8/src/ch7/main-ex1.c",
 		"/Users/srikrishnachaitanyanarumanchi/Documents/PlatformIO/Projects/stm32l100/Src/stm32l1xx_it.c",
 		"/Users/srikrishnachaitanyanarumanchi/Documents/PlatformIO/Projects/stm32l100/Drivers/CMSIS/Device/ST/STM32L1xx/Include/stm32l100xc.h",
-		"/Users/srikrishnachaitanyanarumanchi/Workspace/lcthw/workspace/ex25/ex25.c",
 		"/Users/srikrishnachaitanyanarumanchi/Workspace/lcthw/workspace/ex24/ex24.c",
 		"/Users/srikrishnachaitanyanarumanchi/Downloads/led.dat",
 		"/Users/srikrishnachaitanyanarumanchi/Library/Application Support/Sublime Text 3/Packages/Sublime Tutor/tutorial/README.md",
@@ -641,8 +638,7 @@
 		"/Users/jai/Workspace/trevo/app/controllers/api/v1/bookings_controller.rb",
 		"/Users/jai/Workspace/trevo/app/controllers/api/v1/feedbacks_controller.rb",
 		"/Users/jai/Workspace/trevo/app/controllers/api/v1/users_controller.rb",
-		"/Users/jai/Workspace/trevo/app/models/free_booking.rb",
-		"/Users/jai/Workspace/trevo/app/controllers/api/v1/free_bookings_controller.rb"
+		"/Users/jai/Workspace/trevo/app/models/free_booking.rb"
 	],
 	"find":
 	{
@@ -688,7 +684,7 @@
 	},
 	"input":
 	{
-		"height": 49.0
+		"height": 477.0
 	},
 	"layout":
 	{

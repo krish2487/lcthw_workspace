@@ -25,3 +25,8 @@ State │ Description   │ Input │ Action                │ Next state
  END   │ End of input  │
 
 Example of a mealy machine
+
+Taken from
+https://www.eevblog.com/forum/microcontrollers/state-machines-is-this-topic-taught-any-more/50/
+#65
+

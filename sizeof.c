@@ -8,5 +8,6 @@ int main(int argc, char const *argv[])
 	printf("Size of var is %d\n", sizeof(var));
 	printf("Size of var_array is %d\n", sizeof(var_array));
 	printf("Size of var_array elements is %d\n", sizeof(var_array[0]));
+	printf("Number of elements is %d \n", sizeof(var_array)/sizeof(var_array[0]));
 	return 0;
 }

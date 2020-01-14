@@ -8,6 +8,8 @@ int exit_state(void);
 
 
 /* array and enum below must be in sync! */
+// They must be in sync because the state_code enum is used as the index to lookup the actual state in the state[] array.
+// So, entry -> entry_state, foo -> foo_state, bar -> bar_state, end -> exit_state 
 int (* state[])(void) = { entry_state, foo_state, bar_state, exit_state};
 enum state_codes { entry, foo, bar, end};
 
